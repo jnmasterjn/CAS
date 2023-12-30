@@ -1,0 +1,133 @@
+body, html{
+    margin: 0;
+}
+
+html{
+    background-blend-mode: soft-light;
+    background-color: rgba(255,255,255,0.65);
+}
+
+.nav-bar-container{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.nav-bar-item{
+    float: left;
+}
+
+.nav-bar-item-right{
+    float: right;
+}
+
+.nav-bar-text, .nav-bar-item, .nav-bar-item-right{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-family: system-ui;
+    color:black;
+    font-size: 24px;
+    padding: 15px 28px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 30px;
+    margin:1%;
+}
+
+.introduce-self{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 1000;
+    font-size: 24px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin:5%;
+    
+}
+
+.project-title{
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:38px;
+    color:rgb(40,40,40);
+    margin-top:2%;
+}
+
+.project-background{
+    display: table;
+    margin:2% auto;
+    box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
+    background-color:white;
+    border-radius: 40px;
+    padding-bottom:1%;
+    padding-top: 1%;
+    width:930px;
+
+}
+
+.project-learning-outcome{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:20px;
+    font-weight:400;
+    padding:3%;
+    color:rgb(62, 57, 57);
+}
+
+.project-description{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:20px;
+    font-weight:400;
+    color:rgb(40, 40, 40);
+    padding-left:70px;
+    padding-right:70px;
+}
+
+.image-table{
+    margin: 0 auto;
+}
+
+.image-cell{
+    background-color:rgba(191,191,191,0.1);
+    border-radius: 12px;
+}
+
+.project-image{
+    margin:3px;
+    border-radius: 10px;
+}
+
+.image-description{
+    font-family:system-ui;
+    text-align:center;
+}
+
+.project-container{
+    width:100%;
+}
+
+.comment-background{
+    display: table;
+    margin:2% auto;
+    box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
+    background-color:white;
+    border-radius: 40px;
+    padding-bottom:1%;
+    padding-top: 1%;
+    width:930px;
+}
+
+.janice{
+    background-color: pink;
+    padding: 12px;
+    border-radius: 30px;
+    color:black;
+}
