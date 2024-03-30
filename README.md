@@ -8,4 +8,4 @@ This website serves as one of my projects for the Creativity, Activity, Service 
 - CSS
 
 ## Features
-- Some projects and experiences I have conducted during my high school at Mingdao High School International Department. 
+- Showcase ome projects and experiences I have conducted during my high school at Mingdao High School International Department. 
